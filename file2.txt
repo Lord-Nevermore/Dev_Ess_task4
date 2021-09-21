@@ -3,3 +3,15 @@ The Heart of Tarrasque is an item listed at the Main Shop, under Armor. However,
 
 Trivia
 The name "Tarrasque" references the Tarrasque, an almost undefeatable monster in Dungeons & Dragons, which in return references the Tarasque, a mythological dragon-hybrid that was tamed by Saint Martha.
+
+Recent Changes
+7.28
+Removed  Regeneration Amplification.
+Increased Strength attribute symbol.png strength bonus from 40 to 45.
+Increased max health as health regeneration bonus from 1% to 1.6%.
+Reduced health bonus from 400 to 250.
+Item cost changes:
+No longer requires Ring of Tarrasque icon.png Ring of Tarrasque to build (−650 Gold cost).
+Reduced Reaver icon.png Reaver cost from 3000 Gold to 2800 Gold.
+Increased Default recipe icon.png Recipe cost from 650 Gold to 900 Gold.
+Total gold cost decreases from 5400 Gold to 4800 Gold.
