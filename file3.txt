@@ -5,6 +5,9 @@ Trivia
 Divine Rapier's item icon used to have a little bit of animations. The light rays coming from the top right would slowly move across the icon, and yellow sparkle effects appearead on the rapier. This animation was removed in the patch for unknown reasons.
 
 Recent Changes
+7.30c
+Reduced Sacred Relic icon.png Sacred Relic cost from 3800 Gold to 3750 Gold (total cost decreases from 6000 Gold to 5950 Gold).
+
 7.29
 Increased attack damage bonus from 300 to 350.
 Removed  True Strike.

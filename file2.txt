@@ -5,6 +5,12 @@ Trivia
 The name "Tarrasque" references the Tarrasque, an almost undefeatable monster in Dungeons & Dragons, which in return references the Tarasque, a mythological dragon-hybrid that was tamed by Saint Martha.
 
 Recent Changes
+7.29
+Item cost changes:
+Reduced Vitality Booster icon.png Vitality Booster cost from 1100 Gold to 1000 Gold.
+Increased Default recipe icon.png Recipe cost from 900 Gold to 1300 Gold.
+Total gold cost increases from 4800 Gold to 5100 Gold.
+
 7.28
 Removed  Regeneration Amplification.
 Increased Strength attribute symbol.png strength bonus from 40 to 45.

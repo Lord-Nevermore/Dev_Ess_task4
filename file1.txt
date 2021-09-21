@@ -5,5 +5,8 @@ Trivia
 Midas is based on Midas, a figure from Greek mythology who turned all he touched to gold.
 
 Recent Changes
+7.27b
+Reduced Default recipe icon.png Recipe cost from 1850 Gold to 1750 Gold (total cost decreases from 2300 Gold to 2200 Gold).
+
 7.27
 Increased  Transmute experience bonus multiplier from 1.85 to 2.1.
