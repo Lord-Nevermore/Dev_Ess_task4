@@ -10,3 +10,5 @@ Reduced Default recipe icon.png Recipe cost from 1850 Gold to 1750 Gold (total c
 
 7.27
 Increased  Transmute experience bonus multiplier from 1.85 to 2.1.
+
+By Lord_Nevermore
