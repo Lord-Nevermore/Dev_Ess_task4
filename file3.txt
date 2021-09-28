@@ -11,3 +11,5 @@ Reduced Sacred Relic icon.png Sacred Relic cost from 3800 Gold to 3750 Gold (tot
 7.29
 Increased attack damage bonus from 300 to 350.
 Removed  True Strike.
+
+I make the changes here!
