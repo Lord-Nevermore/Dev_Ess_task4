@@ -22,4 +22,4 @@ Reduced Reaver icon.png Reaver cost from 3000 Gold to 2800 Gold.
 Increased Default recipe icon.png Recipe cost from 650 Gold to 900 Gold.
 Total gold cost decreases from 5400 Gold to 4800 Gold.
 
-Nastya Meow
+Nastya Meow and Lord_Nevermore => Great cooperation!
